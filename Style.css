@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background color: pink;
+}
+
+#firstp {
+    word-spacing: 5px;
+    font-variant: big-caps;
+    text-align: center;
+    font-size: 80px;
+}
+
+#1 {
+    font-size: 15px;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    float: right top: 10px;
+    right: 30px;
+    color: black;
+    cursor: pointer;
+}
+
+#name {
+    font-family: 'Otomanopee One', sans-serif;
+
+}
